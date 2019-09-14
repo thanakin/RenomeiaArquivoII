@@ -1,5 +1,5 @@
 # RenomeiaArquivoII
-### Melhorando o RenomeiaArquivo.
+Melhorando o RenomeiaArquivo.
 
 **Necessidade:**
 * Parar o serviço do MySQL e alternar entre copias de uma mesma base de dados: uma com muitos dados e outra vazia.
@@ -13,6 +13,6 @@ Como este script precisa parar um seviço do S.O., é necessario executa-lo com 
 runas.exe /user:administrator "StopRenameStart.py"
 ```
 
-**Referências:**
-[Parando serviços Windows via prompt](https://www.itprotoday.com/windows-78/how-can-i-stop-service-command-line)
-[Documentação da biblioteca os.path](https://docs.python.org/3/library/os.path.html)
+**Referências:**<br>
+[Parando serviços Windows via prompt](https://www.itprotoday.com/windows-78/how-can-i-stop-service-command-line)<br>
+[Documentação da biblioteca os.path](https://docs.python.org/3/library/os.path.html)<br>
